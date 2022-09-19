@@ -1,0 +1,4 @@
+target/
+.idea/
+# Used for testing/comparison locally, not a part of driver.
+mongo-jdbc-standalone-1.15.jar
